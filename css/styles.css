@@ -23,6 +23,7 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 139%;
+  letter-spacing: 0.03em;
 }
 
 .filter-portfolio:hover,
@@ -40,6 +41,8 @@ body {
   font-size: 14px;
   line-height: 100%;
   color: var(--main-text-color);
+  letter-spacing: 0.02em;
+
 }
 
 .nav-buttons:hover,
@@ -53,6 +56,7 @@ body {
   font-weight: 500;
   font-size: 14px;
   line-height: 100%;
+  letter-spacing: 0.02em;
 }
 
 .header-contact:hover,
@@ -64,6 +68,7 @@ body {
   color: var(--color-of-contact-footer);
   line-height: 146%;
   text-decoration: none;
+  letter-spacing: 0.03em;
 }
 
 .footer-contact:hover,
@@ -79,6 +84,7 @@ body {
   line-height: 100%;
   text-decoration: none;
   color: var(--main-text-color);
+  letter-spacing: 0.03em;
 }
 .page-logo-web {
   color: var(--active-color);
@@ -89,22 +95,27 @@ body {
   line-height: 146%;
   text-decoration: none;
   color: var(--active-color-text);
+  letter-spacing: 0.03em;
 }
 
 .name-of-project {
   font-weight: 700;
   font-size: 18px;
   line-height: 171%;
+  letter-spacing: 0.06em;
+
 }
 .kind-of-project {
   font-size: 16px;
   line-height: 160%;
   color: var(--contact-color);
+  letter-spacing: 0.03em;
 }
 .effective-solution {
   font-weight: 900;
   font-size: 44px;
   line-height: 116%;
+  letter-spacing: 0.06em;
   color: var(--active-color-text);
 }
 .order-button {
@@ -118,30 +129,36 @@ body {
   font-size: 16px;
   font-weight: 700;
   cursor: pointer;
+  letter-spacing: 0.06em;
 }
 .lorem-ipsum {
   font-weight: 700;
   line-height: 100%;
   font-size: 14px;
+  letter-spacing: 0.03em;
 }
 .lorem-ipsum-paragraph {
     font-size: 14px;
     line-height: 171%;
+    letter-spacing: 0.03em;
 }
 .header-of-section {
     font-weight: 700;
     font-size: 36px;
     line-height: 117%;
+    letter-spacing: 0.03em;
 }
 .header-of-coworker{
     font-weight: 500;
     font-size: 16px;
     line-height: 119%;
+    letter-spacing: 0.03em;
 }
 .position-of-coworker {
     font-size: 16px;
     line-height: 119%;
-    color: var(--contact-color)
+    color: var(--contact-color);
+    letter-spacing: 0.03em;
 }
 .main-board {
     background-color: var(--background-color-of-footer);
@@ -160,4 +177,5 @@ body {
   line-height: 100%;
   text-decoration: none;
   color: var(--active-color-text);
+  letter-spacing: 0.03em;
 }
