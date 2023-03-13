@@ -91,7 +91,7 @@ body {
   color: var(--active-color-text);
 }
 
-.header-of-project {
+.name-of-project {
   font-weight: 700;
   font-size: 18px;
   line-height: 171%;
